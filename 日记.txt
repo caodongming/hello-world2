@@ -1,1 +1,2 @@
 5月6日开始学习 git的使用。
+ solve a bug 
